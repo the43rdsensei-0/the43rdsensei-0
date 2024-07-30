@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @the43rd
+- 👋 Hi, I’m @notRadioOpaque
 - 👀 I’m interested in frontend web development 
 - 🌱 I’m currently learning React and Rust
 - 💞️ I’m looking to collaborate on web applications 
